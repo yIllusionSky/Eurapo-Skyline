@@ -1,0 +1,34 @@
+hospital = {
+	is_foreign = no
+	pop_type = clergy
+	max_levels = 1
+	employment_size = clergy_medical_employment
+
+	category = infrastructure_category
+
+	town = yes
+	city = yes
+
+	location_potential = {
+		development >= 20
+	}
+
+	expensive = yes
+
+	build_time = generic_town_build_time
+
+
+	possible_production_methods = {
+		hospital_maintenance
+	}
+	graphical_tags = { medium_religious }
+
+
+	construction_demand = town_building_construction
+
+	modifier = {
+		local_disease_resistance = 0.1
+		local_life_expectancy = 5
+		local_population_growth = 0.001
+	}
+}

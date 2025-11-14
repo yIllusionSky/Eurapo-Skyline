@@ -1,0 +1,57 @@
+
+REPLACE:expensive_food_in_location = {
+	game_data = {
+		category = location
+	}
+	local_population_growth = -0.001
+}
+
+REPLACE:cheap_food_in_location = {
+	game_data = {
+		category = location
+	}
+	local_population_growth = 0.005
+}
+
+REPLACE:location_size_impact = {
+	game_data = {
+		category = location
+	}
+	# local_institution_growth_modifier = -0.01
+	# occupation_time = 0.0025
+}
+
+REPLACE:available_free_land = {
+	game_data = {
+		category = location
+	}
+	local_migration_attraction = 0.25
+	local_population_growth = 0.005
+}
+
+REPLACE:abundant_free_land = {
+	game_data = {
+		category = location
+	}
+	local_migration_attraction = 0.5
+	local_population_growth = 0.02
+}
+# Scales depending on how much over capacity
+REPLACE:overpopulation = {
+	game_data = {
+		category = location
+	}
+	# cap_maximum_population_growth_at_zero = yes
+	local_pop_demotion_speed_modifier = 0.5
+	local_migration_attraction = -25.0
+	local_migration_speed = 0.05 # Pops migrate faster the more overpopulated the area is
+}
+
+REPLACE:province_starving = {
+    game_data = {
+		category = location
+	}
+
+	# 暂时不修改
+	# local_population_growth = -0.3
+}

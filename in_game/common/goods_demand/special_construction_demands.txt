@@ -1,0 +1,25 @@
+build_town_demand = {
+	glass = 2
+	masonry = 4
+	lumber = 2
+	category = government_activities
+
+}
+
+build_city_demand = {
+	glass = 4
+	masonry = 8
+	lumber = 4
+
+	category = government_activities
+
+}
+
+build_metropolis_demand = {
+	glass = 16
+	masonry = 32
+	lumber = 16
+
+	category = government_activities
+
+}

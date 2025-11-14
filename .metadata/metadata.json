@@ -1,0 +1,12 @@
+{
+  "name": "EU5 Super Mod",
+  "id": "eu5_super_mod",
+  "version": "1.0",
+  "supported_game_version": "1.0.*",
+  "short_description": "Enhances population mechanics, adds new building types, and improves game balance",
+  "tags": ["Balance", "Buildings", "Population", "Economy"],
+  "relationships": [],
+  "game_custom_data": {
+    "replace_paths": []
+  }
+}
