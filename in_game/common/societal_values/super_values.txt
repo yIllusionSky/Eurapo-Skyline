@@ -9,14 +9,14 @@
 		global_population_capacity_modifier = 0.25
 
 		# 增加人口年增长率
-		global_population_growth = 0.0015
+		global_population_growth = 0.002
 	}
 }
 
 INJECT:serfdom_vs_free_subjects = {
 	left_modifier = {
 		# 增加人口年增长率
-		global_population_growth = 0.001
+		global_population_growth = 0.0015
 		# 建筑成本增加30%
 		global_build_buildings_cost = 0.30
 	}
@@ -28,8 +28,8 @@ INJECT:sbelligerent_vs_conciliatory = {
 		pop_join_rebel_threshold = -0.05
 	}
 	right_modifier = {
-		# 增加人口年增长0.15%
-		global_population_growth = 0.0015
+		# 增加人口年增长0.2%
+		global_population_growth = 0.002
 	}
 }
 
@@ -39,8 +39,8 @@ INJECT:quality_vs_quantity = {
 		global_raw_material_output = 0.2
 	}
 	right_modifier = { 
-		# 增加人口年增长0.2%
-		global_population_growth = 0.002
+		# 增加人口年增长0.3%
+		global_population_growth = 0.003
 	}
 
 	opinion_importance_multiplier = 0.5
@@ -48,8 +48,8 @@ INJECT:quality_vs_quantity = {
 
 INJECT:offensive_vs_defensive = {
 	right_modifier = {
-		# 增加人口年增长0.1%
-		global_population_growth = 0.001
+		# 增加人口年增长0.15%
+		global_population_growth = 0.0015
 	}
 }
 
@@ -62,7 +62,7 @@ INJECT:individualism_vs_communalism = {
 
 INJECT:absolutism_vs_liberalism = {
 	right_modifier = {
-		# 增加人口年增长0.1%
-		global_population_growth = 0.001
+		# 增加人口年增长0.15%
+		global_population_growth = 0.0015
 	}
 }
