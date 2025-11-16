@@ -1,19 +1,21 @@
-﻿
-REPLACE:expensive_food_in_location = {
+﻿TRY_REPLACE:available_free_land = {
 	game_data = {
 		category = location
 	}
-	local_population_growth = -0.001
+	local_migration_attraction = 0.1
+	local_population_growth = 0.005 # 增加数值
 }
 
-REPLACE:cheap_food_in_location = {
+TRY_REPLACE:abundant_free_land = {
 	game_data = {
 		category = location
 	}
-	local_population_growth = 0.005
+	local_migration_attraction = 0.2
+	local_population_growth = 0.008 # 削弱数值
 }
 
-REPLACE:location_size_impact = {
+# 人多不会减少人口增长
+TRY_REPLACE:location_size_impact = {
 	game_data = {
 		category = location
 	}
@@ -21,38 +23,113 @@ REPLACE:location_size_impact = {
 	# occupation_time = 0.0025
 }
 
-REPLACE:available_free_land = {
+# 超出人口上限不会直接不让人口增长
+TRY_REPLACE:overpopulation = {
 	game_data = {
 		category = location
 	}
-	local_migration_attraction = 0.25
-	local_population_growth = 0.005
-}
-
-REPLACE:abundant_free_land = {
-	game_data = {
-		category = location
-	}
-	local_migration_attraction = 0.5
-	local_population_growth = 0.02
-}
-# Scales depending on how much over capacity
-REPLACE:overpopulation = {
-	game_data = {
-		category = location
-	}
-	# cap_maximum_population_growth_at_zero = yes
+	cap_maximum_population_growth_at_zero = no
 	local_pop_demotion_speed_modifier = 0.5
 	local_migration_attraction = -25.0
-	local_migration_speed = 0.05 # Pops migrate faster the more overpopulated the area is
+	local_migration_speed = 0.05
 }
 
-REPLACE:province_starving = {
-    game_data = {
+TRY_REPLACE:province_starving = {
+	game_data = {
+		category = province
+	}
+	
+	# 饥荒影响是原来的4倍，当一个地方发生饥荒时，恢复人口需要10年时间
+	local_population_growth = -0.01
+	local_supply_limit_modifier = -0.25
+	local_migration_attraction = -1.0
+	
+	local_pop_demotion_speed_modifier = 0.5
+	
+	local_upper_class_capacity_modifier = -0.5
+	local_life_expectancy = -10
+	
+	
+	local_migration_speed = 0.025
+	
+	local_tribesmen_migration_allowed = yes
+	local_laborers_migration_allowed = yes
+	local_peasants_migration_allowed = yes
+}
+
+TRY_REPLACE:prosperity = {
+	game_data = {
 		category = location
 	}
 
-	# 饥荒影响是原来的3倍
-	local_population_growth = -0.075
-	local_life_expectancy = -20
+	local_monthly_development = 0.004
+	local_migration_attraction = 0.1
+	local_life_expectancy = 10
+
+	# 繁荣度对人口影响提高为原本的5倍，满繁荣度可提供1%增长率
+	local_population_growth = 0.01
+
+	# 满繁荣度提高50%人口上限
+	local_population_capacity_modifier = 0.5
+}
+
+TRY_REPLACE:development = {
+	game_data = {
+		category = location
+	}
+	local_population_capacity_modifier = 0.025
+	local_distance_from_capital_cost_modifier = -0.002
+	local_supply_limit_modifier = 0.02
+	blockade_force_required = 0.01
+	local_trade_center_power = 0.001
+
+	local_institution_growth_modifier = 0.002
+	
+	local_construction_speed = 0.01
+	
+	local_monthly_food_modifier = 0.01
+	
+	free_building_levels = 1
+	
+	local_life_expectancy = 0.1
+	
+	occupation_time = 0.01
+	maximum_stockpile_capacity = 5
+
+
+	# 发展度提高的上限为原先的4倍
+	local_max_rgo_size = 0.4
+
+	# 暂时不用。发展度对人口提高最高可达到年增长1%
+	# local_population_growth = 0.0001
+	
+	# 发展度越高造价越贵，最高增加50%(大城市劳动力更贵)
+	local_build_buildings_cost = 0.005
+}
+
+TRY_REPLACE:devastation = {
+	game_data = {
+		category = location
+	}
+	# 荒废度满时食物生产减少90%
+	local_monthly_food_modifier = 0.9
+	local_raw_material_output = 0.5
+
+	# 荒废度满时生产效率减少90%
+	local_production_efficiency = 0.9
+
+	# 荒废度对人口的减少是原本的7.5倍
+	local_population_growth = 0.075
+	local_monthly_literacy = 0.05
+	local_pop_promotion_speed_modifier = 0.5
+	local_migration_attraction = 1
+
+	# 荒废对发展度的减少是原本10倍，大型城市对抗荒废度的发展度减少很有效
+	local_monthly_development = 0.04
+	local_life_expectancy = 10
+	local_mercenaries_modifier = -0.5
+	local_construction_speed = -0.5
+
+	# 满荒废度减少90%人口容量
+	local_population_capacity_modifier = 0.9
 }

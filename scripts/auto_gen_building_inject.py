@@ -85,14 +85,14 @@ def parse_building_files(folder_path, search_keys):
 
 def generate_inject_statements(results, inject_content_list):
     """
-    生成INJECT语句
+    生成TRY_INJECT语句
 
     Args:
         results: parse_building_files的返回结果
         inject_content_list: 要注入的内容数组，例如 ["city = yes", "super_tag = yes"]
 
     Returns:
-        INJECT语句列表
+        TRY_INJECT语句列表
     """
     inject_statements = []
 
@@ -100,7 +100,7 @@ def generate_inject_statements(results, inject_content_list):
         building_name = item['building_name']
         # 将数组中的每一项用制表符分隔
         content_lines = "\n\t".join(inject_content_list)
-        inject_stmt = f"INJECT:{building_name} = {{\n\t{content_lines}\n}}"
+        inject_stmt = f"TRY_INJECT:{building_name} = {{\n\t{content_lines}\n}}"
         inject_statements.append(inject_stmt)
 
     return inject_statements
@@ -142,7 +142,7 @@ def main():
 
     print(f"找到 {len(results)} 个符合条件的building\n")
 
-    # 生成INJECT语句
+    # 生成TRY_INJECT语句
     inject_statements = generate_inject_statements(results, inject_content)
 
     # 输出结果

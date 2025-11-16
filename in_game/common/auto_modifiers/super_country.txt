@@ -1,5 +1,4 @@
-﻿# 厌战度减少的人口会变得更多
-TRY_REPLACE:war_exhaustion_impact = {
+﻿TRY_REPLACE:war_exhaustion_impact = {
 	scales_with = war_exhaustion
 
 	land_morale_modifier = -0.02
@@ -8,5 +7,7 @@ TRY_REPLACE:war_exhaustion_impact = {
 	
 	global_production_efficiency = scaled_production_efficiency_penalty
 	trade_efficiency = scaled_trade_efficiency_penalty
-	global_population_growth = -0.005
+
+	# 提高厌战度对人口增长的影响
+	global_population_growth = -0.0005
 }

@@ -2,10 +2,10 @@
 	gold = 100000
 }
 
-REPLACE:city_upgrade = {
+TRY_REPLACE:city_upgrade = {
 	gold = 10000
 }
 
-REPLACE:town_upgrade = {
+TRY_REPLACE:town_upgrade = {
 	gold = 2000
 }

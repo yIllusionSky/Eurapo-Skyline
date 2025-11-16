@@ -1,1579 +1,1579 @@
-﻿INJECT:sofa_stockade = {
+﻿TRY_INJECT:sofa_stockade = {
 	super_metropolis = yes
 }
 
-INJECT:korean_barracks = {
+TRY_INJECT:korean_barracks = {
 	super_metropolis = yes
 }
 
-INJECT:provincial_garrison = {
+TRY_INJECT:provincial_garrison = {
 	super_metropolis = yes
 }
 
-INJECT:royal_court = {
+TRY_INJECT:royal_court = {
 	super_metropolis = yes
 }
 
-INJECT:house_of_parliament = {
+TRY_INJECT:house_of_parliament = {
 	super_metropolis = yes
 }
 
-INJECT:order_headquarters = {
+TRY_INJECT:order_headquarters = {
 	super_metropolis = yes
 }
 
-INJECT:admiralty = {
+TRY_INJECT:admiralty = {
 	super_metropolis = yes
 }
 
-INJECT:war_college = {
+TRY_INJECT:war_college = {
 	super_metropolis = yes
 }
 
-INJECT:tax_assessor = {
+TRY_INJECT:tax_assessor = {
 	super_metropolis = yes
 }
 
-INJECT:supreme_court = {
+TRY_INJECT:supreme_court = {
 	super_metropolis = yes
 }
 
-INJECT:chancery = {
+TRY_INJECT:chancery = {
 	super_metropolis = yes
 }
 
-INJECT:republican_assembly = {
+TRY_INJECT:republican_assembly = {
 	super_metropolis = yes
 }
 
-INJECT:royal_garden = {
+TRY_INJECT:royal_garden = {
 	super_metropolis = yes
 }
 
-INJECT:pirate_stronghold = {
+TRY_INJECT:pirate_stronghold = {
 	super_metropolis = yes
 }
 
-INJECT:coastal_fort = {
+TRY_INJECT:coastal_fort = {
 	super_metropolis = yes
 }
 
-INJECT:naval_battery = {
+TRY_INJECT:naval_battery = {
 	super_metropolis = yes
 }
 
-INJECT:irrigation_systems = {
+TRY_INJECT:irrigation_systems = {
 	super_metropolis = yes
 }
 
-INJECT:bridge_infrastructure = {
+TRY_INJECT:bridge_infrastructure = {
 	super_metropolis = yes
 }
 
-INJECT:pound_lock_canal_infrastructure = {
+TRY_INJECT:pound_lock_canal_infrastructure = {
 	super_metropolis = yes
 }
 
-INJECT:mason = {
+TRY_INJECT:mason = {
 	super_metropolis = yes
 }
 
-INJECT:mercury_patio = {
+TRY_INJECT:mercury_patio = {
 	super_metropolis = yes
 }
 
-INJECT:tar_kiln = {
+TRY_INJECT:tar_kiln = {
 	super_metropolis = yes
 }
 
-INJECT:horse_breeders = {
+TRY_INJECT:horse_breeders = {
 	super_metropolis = yes
 }
 
-INJECT:stone_quarry = {
+TRY_INJECT:stone_quarry = {
 	super_metropolis = yes
 }
 
-INJECT:lumber_mill = {
+TRY_INJECT:lumber_mill = {
 	super_metropolis = yes
 }
 
-INJECT:fiber_crops_farm = {
+TRY_INJECT:fiber_crops_farm = {
 	super_metropolis = yes
 }
 
-INJECT:sand_pit = {
+TRY_INJECT:sand_pit = {
 	super_metropolis = yes
 }
 
-INJECT:bog_iron_smelter = {
+TRY_INJECT:bog_iron_smelter = {
 	super_metropolis = yes
 }
 
-INJECT:clay_pit = {
+TRY_INJECT:clay_pit = {
 	super_metropolis = yes
 }
 
-INJECT:salt_collector = {
+TRY_INJECT:salt_collector = {
 	super_metropolis = yes
 }
 
-INJECT:fruit_orchard = {
+TRY_INJECT:fruit_orchard = {
 	super_metropolis = yes
 }
 
-INJECT:university = {
+TRY_INJECT:university = {
 	super_metropolis = yes
 }
 
-INJECT:library = {
+TRY_INJECT:library = {
 	super_metropolis = yes
 }
 
-INJECT:confucian_school = {
+TRY_INJECT:confucian_school = {
 	super_metropolis = yes
 }
 
-INJECT:confucian_academy = {
+TRY_INJECT:confucian_academy = {
 	super_metropolis = yes
 }
 
-INJECT:opera_house = {
+TRY_INJECT:opera_house = {
 	super_metropolis = yes
 }
 
-INJECT:theater = {
+TRY_INJECT:theater = {
 	super_metropolis = yes
 }
 
-INJECT:jesuit_college = {
+TRY_INJECT:jesuit_college = {
 	super_metropolis = yes
 }
 
-INJECT:art_school = {
+TRY_INJECT:art_school = {
 	super_metropolis = yes
 }
 
-INJECT:arts_academy = {
+TRY_INJECT:arts_academy = {
 	super_metropolis = yes
 }
 
-INJECT:toll_castle = {
+TRY_INJECT:toll_castle = {
 	super_metropolis = yes
 }
 
-INJECT:local_noble_delegation = {
+TRY_INJECT:local_noble_delegation = {
 	super_metropolis = yes
 }
 
-INJECT:nobles_recruitment_center = {
+TRY_INJECT:nobles_recruitment_center = {
 	super_metropolis = yes
 }
 
-INJECT:parish_church = {
+TRY_INJECT:parish_church = {
 	super_metropolis = yes
 }
 
-INJECT:clerical_archives = {
+TRY_INJECT:clerical_archives = {
 	super_metropolis = yes
 }
 
-INJECT:guild_hall = {
+TRY_INJECT:guild_hall = {
 	super_metropolis = yes
 }
 
-INJECT:merchants_guild = {
+TRY_INJECT:merchants_guild = {
 	super_metropolis = yes
 }
 
-INJECT:burgher_mansion = {
+TRY_INJECT:burgher_mansion = {
 	super_metropolis = yes
 }
 
-INJECT:artisan_guilds = {
+TRY_INJECT:artisan_guilds = {
 	super_metropolis = yes
 }
 
-INJECT:local_assembly = {
+TRY_INJECT:local_assembly = {
 	super_metropolis = yes
 }
 
-INJECT:pirate_haven = {
+TRY_INJECT:pirate_haven = {
 	super_metropolis = yes
 }
 
-INJECT:festival_grounds = {
+TRY_INJECT:festival_grounds = {
 	super_metropolis = yes
 }
 
-INJECT:local_schools = {
+TRY_INJECT:local_schools = {
 	super_metropolis = yes
 }
 
-INJECT:local_newspaper = {
+TRY_INJECT:local_newspaper = {
 	super_metropolis = yes
 }
 
-INJECT:cantonments = {
+TRY_INJECT:cantonments = {
 	super_metropolis = yes
 }
 
-INJECT:grand_palace = {
+TRY_INJECT:grand_palace = {
 	super_metropolis = yes
 }
 
-INJECT:great_madrasa = {
+TRY_INJECT:great_madrasa = {
 	super_metropolis = yes
 }
 
-INJECT:tibetan_great_monastery = {
+TRY_INJECT:tibetan_great_monastery = {
 	super_metropolis = yes
 }
 
-INJECT:tower_of_belem = {
+TRY_INJECT:tower_of_belem = {
 	super_metropolis = yes
 }
 
-INJECT:fortezza_di_sant_andrea = {
+TRY_INJECT:fortezza_di_sant_andrea = {
 	super_metropolis = yes
 }
 
-INJECT:great_temple_of_tenochtitlan = {
+TRY_INJECT:great_temple_of_tenochtitlan = {
 	super_metropolis = yes
 }
 
-INJECT:corporation_of_london = {
+TRY_INJECT:corporation_of_london = {
 	super_metropolis = yes
 }
 
-INJECT:grand_apartment = {
+TRY_INJECT:grand_apartment = {
 	super_metropolis = yes
 }
 
-INJECT:sanssouci = {
+TRY_INJECT:sanssouci = {
 	super_metropolis = yes
 }
 
-INJECT:berlin_palace = {
+TRY_INJECT:berlin_palace = {
 	super_metropolis = yes
 }
 
-INJECT:versailles = {
+TRY_INJECT:versailles = {
 	super_metropolis = yes
 }
 
-INJECT:imperial_halic_shipyards = {
+TRY_INJECT:imperial_halic_shipyards = {
 	super_metropolis = yes
 }
 
-INJECT:rock_of_monaco = {
+TRY_INJECT:rock_of_monaco = {
 	super_metropolis = yes
 }
 
-INJECT:llotja_seda = {
+TRY_INJECT:llotja_seda = {
 	super_metropolis = yes
 }
 
-INJECT:camara_comptos = {
+TRY_INJECT:camara_comptos = {
 	super_metropolis = yes
 }
 
-INJECT:zwinger = {
+TRY_INJECT:zwinger = {
 	super_metropolis = yes
 }
 
-INJECT:globe_theatre = {
+TRY_INJECT:globe_theatre = {
 	super_metropolis = yes
 }
 
-INJECT:schwaz_mine = {
+TRY_INJECT:schwaz_mine = {
 	super_metropolis = yes
 }
 
-INJECT:urban_parliament_seat = {
+TRY_INJECT:urban_parliament_seat = {
 	super_metropolis = yes
 }
 
-INJECT:ribeira_das_naus = {
+TRY_INJECT:ribeira_das_naus = {
 	super_metropolis = yes
 }
 
-INJECT:papal_archives = {
+TRY_INJECT:papal_archives = {
 	super_metropolis = yes
 }
 
-INJECT:adm_vatican_library = {
+TRY_INJECT:adm_vatican_library = {
 	super_metropolis = yes
 }
 
-INJECT:dip_vatican_library = {
+TRY_INJECT:dip_vatican_library = {
 	super_metropolis = yes
 }
 
-INJECT:mil_vatican_library = {
+TRY_INJECT:mil_vatican_library = {
 	super_metropolis = yes
 }
 
-INJECT:wisselbank = {
+TRY_INJECT:wisselbank = {
 	super_metropolis = yes
 }
 
-INJECT:bolshoi_theater = {
+TRY_INJECT:bolshoi_theater = {
 	super_metropolis = yes
 }
 
-INJECT:archive_of_the_indies = {
+TRY_INJECT:archive_of_the_indies = {
 	super_metropolis = yes
 }
 
-INJECT:hsa_burgtor = {
+TRY_INJECT:hsa_burgtor = {
 	super_metropolis = yes
 }
 
-INJECT:bodrum_castle = {
+TRY_INJECT:bodrum_castle = {
 	super_metropolis = yes
 }
 
-INJECT:forbidden_city = {
+TRY_INJECT:forbidden_city = {
 	super_metropolis = yes
 }
 
-INJECT:chi_macau_port = {
+TRY_INJECT:chi_macau_port = {
 	super_metropolis = yes
 }
 
-INJECT:chi_missionary_building = {
+TRY_INJECT:chi_missionary_building = {
 	super_metropolis = yes
 }
 
-INJECT:college_of_poets = {
+TRY_INJECT:college_of_poets = {
 	super_metropolis = yes
 }
 
-INJECT:bibliotheca_corviniana = {
+TRY_INJECT:bibliotheca_corviniana = {
 	super_metropolis = yes
 }
 
-INJECT:hexamilion_wall = {
+TRY_INJECT:hexamilion_wall = {
 	super_metropolis = yes
 }
 
-INJECT:ablaq_palace = {
+TRY_INJECT:ablaq_palace = {
 	super_metropolis = yes
 }
 
-INJECT:oma_falaj = {
+TRY_INJECT:oma_falaj = {
 	super_metropolis = yes
 }
 
-INJECT:oma_nizwa_fort = {
+TRY_INJECT:oma_nizwa_fort = {
 	super_metropolis = yes
 }
 
-INJECT:dutch_trade_outpost = {
+TRY_INJECT:dutch_trade_outpost = {
 	super_metropolis = yes
 }
 
-INJECT:friesland_admiralty = {
+TRY_INJECT:friesland_admiralty = {
 	super_metropolis = yes
 }
 
-INJECT:west_friesland_admiralty = {
+TRY_INJECT:west_friesland_admiralty = {
 	super_metropolis = yes
 }
 
-INJECT:rotterdam_admiralty = {
+TRY_INJECT:rotterdam_admiralty = {
 	super_metropolis = yes
 }
 
-INJECT:zeeland_admiralty = {
+TRY_INJECT:zeeland_admiralty = {
 	super_metropolis = yes
 }
 
-INJECT:amsterdam_admiralty = {
+TRY_INJECT:amsterdam_admiralty = {
 	super_metropolis = yes
 }
 
-INJECT:schonbrunn_palace = {
+TRY_INJECT:schonbrunn_palace = {
 	super_metropolis = yes
 }
 
-INJECT:teatro_san_cassiano = {
+TRY_INJECT:teatro_san_cassiano = {
 	super_metropolis = yes
 }
 
-INJECT:doges_palace = {
+TRY_INJECT:doges_palace = {
 	super_metropolis = yes
 }
 
-INJECT:library_of_vijayanagar = {
+TRY_INJECT:library_of_vijayanagar = {
 	super_metropolis = yes
 }
 
-INJECT:city_of_victory = {
+TRY_INJECT:city_of_victory = {
 	super_metropolis = yes
 }
 
-INJECT:ranganathaswamy_temple_building = {
+TRY_INJECT:ranganathaswamy_temple_building = {
 	super_metropolis = yes
 }
 
-INJECT:venkateswara_temple = {
+TRY_INJECT:venkateswara_temple = {
 	super_metropolis = yes
 }
 
-INJECT:piazza_san_marco = {
+TRY_INJECT:piazza_san_marco = {
 	super_metropolis = yes
 }
 
-INJECT:walls_of_ston = {
+TRY_INJECT:walls_of_ston = {
 	super_metropolis = yes
 }
 
-INJECT:swi_collegium_helveticum = {
+TRY_INJECT:swi_collegium_helveticum = {
 	super_metropolis = yes
 }
 
-INJECT:kastellet = {
+TRY_INJECT:kastellet = {
 	super_metropolis = yes
 }
 
-INJECT:kronborg = {
+TRY_INJECT:kronborg = {
 	super_metropolis = yes
 }
 
-INJECT:husuni_kubwa = {
+TRY_INJECT:husuni_kubwa = {
 	super_metropolis = yes
 }
 
-INJECT:magistrato_alla_sanita = {
+TRY_INJECT:magistrato_alla_sanita = {
 	super_metropolis = yes
 }
 
-INJECT:imperial_city_of_hue = {
+TRY_INJECT:imperial_city_of_hue = {
 	super_metropolis = yes
 }
 
-INJECT:wat_chaiwatthanaram_temple_building = {
+TRY_INJECT:wat_chaiwatthanaram_temple_building = {
 	super_metropolis = yes
 }
 
-INJECT:constantinople_observatory = {
+TRY_INJECT:constantinople_observatory = {
 	super_metropolis = yes
 }
 
-INJECT:castel_sant_angelo = {
+TRY_INJECT:castel_sant_angelo = {
 	super_metropolis = yes
 }
 
-INJECT:quirinal_palace = {
+TRY_INJECT:quirinal_palace = {
 	super_metropolis = yes
 }
 
-INJECT:debere_meshwae = {
+TRY_INJECT:debere_meshwae = {
 	super_metropolis = yes
 }
 
-INJECT:lighthouse_of_alexandria = {
+TRY_INJECT:lighthouse_of_alexandria = {
 	super_metropolis = yes
 }
 
-INJECT:al_azhar_madrasa = {
+TRY_INJECT:al_azhar_madrasa = {
 	super_metropolis = yes
 }
 
-INJECT:delhi_tomb = {
+TRY_INJECT:delhi_tomb = {
 	super_metropolis = yes
 }
 
-INJECT:red_fort = {
+TRY_INJECT:red_fort = {
 	super_metropolis = yes
 }
 
-INJECT:ori_portuguese_quarters = {
+TRY_INJECT:ori_portuguese_quarters = {
 	super_metropolis = yes
 }
 
-INJECT:mahmud_gawan_madrasa = {
+TRY_INJECT:mahmud_gawan_madrasa = {
 	super_metropolis = yes
 }
 
-INJECT:ambras_castle = {
+TRY_INJECT:ambras_castle = {
 	super_metropolis = yes
 }
 
-INJECT:belvedere_palace = {
+TRY_INJECT:belvedere_palace = {
 	super_metropolis = yes
 }
 
-INJECT:sco_palace_of_holyroodhouse = {
+TRY_INJECT:sco_palace_of_holyroodhouse = {
 	super_metropolis = yes
 }
 
-INJECT:fra_louvre_museum = {
+TRY_INJECT:fra_louvre_museum = {
 	super_metropolis = yes
 }
 
-INJECT:guich_garrison = {
+TRY_INJECT:guich_garrison = {
 	super_metropolis = yes
 }
 
-INJECT:bavarian_academy_of_sciences = {
+TRY_INJECT:bavarian_academy_of_sciences = {
 	super_metropolis = yes
 }
 
-INJECT:herrenchiemsee_abbey = {
+TRY_INJECT:herrenchiemsee_abbey = {
 	super_metropolis = yes
 }
 
-INJECT:munich_residenz_founding = {
+TRY_INJECT:munich_residenz_founding = {
 	super_metropolis = yes
 }
 
-INJECT:munich_residenz_renaissance_expansion = {
+TRY_INJECT:munich_residenz_renaissance_expansion = {
 	super_metropolis = yes
 }
 
-INJECT:munich_residenz_baroque_expansion = {
+TRY_INJECT:munich_residenz_baroque_expansion = {
 	super_metropolis = yes
 }
 
-INJECT:general_archive_of_simancas = {
+TRY_INJECT:general_archive_of_simancas = {
 	super_metropolis = yes
 }
 
-INJECT:el_escorial_palace = {
+TRY_INJECT:el_escorial_palace = {
 	super_metropolis = yes
 }
 
-INJECT:school_of_salamanca = {
+TRY_INJECT:school_of_salamanca = {
 	super_metropolis = yes
 }
 
-INJECT:segovia_artillery_academy = {
+TRY_INJECT:segovia_artillery_academy = {
 	super_metropolis = yes
 }
 
-INJECT:usa_academy_of_arts_and_sciences = {
+TRY_INJECT:usa_academy_of_arts_and_sciences = {
 	super_metropolis = yes
 }
 
-INJECT:usa_philosophical_society = {
+TRY_INJECT:usa_philosophical_society = {
 	super_metropolis = yes
 }
 
-INJECT:usa_national_bank = {
+TRY_INJECT:usa_national_bank = {
 	super_metropolis = yes
 }
 
-INJECT:usa_national_mint = {
+TRY_INJECT:usa_national_mint = {
 	super_metropolis = yes
 }
 
-INJECT:the_cipher_secretary = {
+TRY_INJECT:the_cipher_secretary = {
 	super_metropolis = yes
 }
 
-INJECT:phanariot_district = {
+TRY_INJECT:phanariot_district = {
 	super_metropolis = yes
 }
 
-INJECT:maniot_toll_guards = {
+TRY_INJECT:maniot_toll_guards = {
 	super_metropolis = yes
 }
 
-INJECT:bulgarian_administration_center = {
+TRY_INJECT:bulgarian_administration_center = {
 	super_metropolis = yes
 }
 
-INJECT:jewish_district = {
+TRY_INJECT:jewish_district = {
 	super_metropolis = yes
 }
 
-INJECT:darussifa = {
+TRY_INJECT:darussifa = {
 	super_metropolis = yes
 }
 
-INJECT:woodhenge_of_cahokia = {
+TRY_INJECT:woodhenge_of_cahokia = {
 	super_metropolis = yes
 }
 
-INJECT:sevilla_bullfighting_school = {
+TRY_INJECT:sevilla_bullfighting_school = {
 	super_metropolis = yes
 }
 
-INJECT:royal_audience_and_chancery = {
+TRY_INJECT:royal_audience_and_chancery = {
 	super_metropolis = yes
 }
 
-INJECT:charite_of_berlin = {
+TRY_INJECT:charite_of_berlin = {
 	super_metropolis = yes
 }
 
-INJECT:trade_office = {
+TRY_INJECT:trade_office = {
 	super_metropolis = yes
 }
 
-INJECT:embassy = {
+TRY_INJECT:embassy = {
 	super_metropolis = yes
 }
 
-INJECT:slave_center = {
+TRY_INJECT:slave_center = {
 	super_metropolis = yes
 }
 
-INJECT:stockade = {
+TRY_INJECT:stockade = {
 	super_metropolis = yes
 }
 
-INJECT:castle = {
+TRY_INJECT:castle = {
 	super_metropolis = yes
 }
 
-INJECT:bastion = {
+TRY_INJECT:bastion = {
 	super_metropolis = yes
 }
 
-INJECT:star_fort = {
+TRY_INJECT:star_fort = {
 	super_metropolis = yes
 }
 
-INJECT:fortress = {
+TRY_INJECT:fortress = {
 	super_metropolis = yes
 }
 
-INJECT:sergeantry = {
+TRY_INJECT:sergeantry = {
 	super_metropolis = yes
 }
 
-INJECT:warrior_temple = {
+TRY_INJECT:warrior_temple = {
 	super_metropolis = yes
 }
 
-INJECT:armory = {
+TRY_INJECT:armory = {
 	super_metropolis = yes
 }
 
-INJECT:barracks = {
+TRY_INJECT:barracks = {
 	super_metropolis = yes
 }
 
-INJECT:conscription_center = {
+TRY_INJECT:conscription_center = {
 	super_metropolis = yes
 }
 
-INJECT:jurchen_barracks = {
+TRY_INJECT:jurchen_barracks = {
 	super_metropolis = yes
 }
 
-INJECT:thema_headquarters = {
+TRY_INJECT:thema_headquarters = {
 	super_metropolis = yes
 }
 
-INJECT:city_guard = {
+TRY_INJECT:city_guard = {
 	super_metropolis = yes
 }
 
-INJECT:entrepot = {
+TRY_INJECT:entrepot = {
 	super_metropolis = yes
 }
 
-INJECT:trading_hub = {
+TRY_INJECT:trading_hub = {
 	super_metropolis = yes
 }
 
-INJECT:customs_house = {
+TRY_INJECT:customs_house = {
 	super_metropolis = yes
 }
 
-INJECT:stock_exchange = {
+TRY_INJECT:stock_exchange = {
 	super_metropolis = yes
 }
 
-INJECT:clearing_house = {
+TRY_INJECT:clearing_house = {
 	super_metropolis = yes
 }
 
-INJECT:market_warehouse = {
+TRY_INJECT:market_warehouse = {
 	super_metropolis = yes
 }
 
-INJECT:funduq = {
+TRY_INJECT:funduq = {
 	super_metropolis = yes
 }
 
-INJECT:black_market = {
+TRY_INJECT:black_market = {
 	super_metropolis = yes
 }
 
-INJECT:smuggler_cove = {
+TRY_INJECT:smuggler_cove = {
 	super_metropolis = yes
 }
 
-INJECT:brothel = {
+TRY_INJECT:brothel = {
 	super_metropolis = yes
 }
 
-INJECT:pirate_tavern = {
+TRY_INJECT:pirate_tavern = {
 	super_metropolis = yes
 }
 
-INJECT:sugar_plantation = {
+TRY_INJECT:sugar_plantation = {
 	super_metropolis = yes
 }
 
-INJECT:cotton_plantation = {
+TRY_INJECT:cotton_plantation = {
 	super_metropolis = yes
 }
 
-INJECT:tobacco_plantation = {
+TRY_INJECT:tobacco_plantation = {
 	super_metropolis = yes
 }
 
-INJECT:dock = {
+TRY_INJECT:dock = {
 	super_metropolis = yes
 }
 
-INJECT:dry_dock = {
+TRY_INJECT:dry_dock = {
 	super_metropolis = yes
 }
 
-INJECT:shipyard = {
+TRY_INJECT:shipyard = {
 	super_metropolis = yes
 }
 
-INJECT:grand_shipyard = {
+TRY_INJECT:grand_shipyard = {
 	super_metropolis = yes
 }
 
-INJECT:naval_base = {
+TRY_INJECT:naval_base = {
 	super_metropolis = yes
 }
 
-INJECT:protected_harbor = {
+TRY_INJECT:protected_harbor = {
 	super_metropolis = yes
 }
 
-INJECT:brewery = {
+TRY_INJECT:brewery = {
 	super_metropolis = yes
 }
 
-INJECT:beer_workshop = {
+TRY_INJECT:beer_workshop = {
 	super_metropolis = yes
 }
 
-INJECT:brewery_manufactory = {
+TRY_INJECT:brewery_manufactory = {
 	super_metropolis = yes
 }
 
-INJECT:brewery_mill = {
+TRY_INJECT:brewery_mill = {
 	super_metropolis = yes
 }
 
-INJECT:scriptorium = {
+TRY_INJECT:scriptorium = {
 	super_metropolis = yes
 }
 
-INJECT:printing_press_shop = {
+TRY_INJECT:printing_press_shop = {
 	super_metropolis = yes
 }
 
-INJECT:printing_manufactory = {
+TRY_INJECT:printing_manufactory = {
 	super_metropolis = yes
 }
 
-INJECT:printing_mill = {
+TRY_INJECT:printing_mill = {
 	super_metropolis = yes
 }
 
-INJECT:cannon_maker = {
+TRY_INJECT:cannon_maker = {
 	super_metropolis = yes
 }
 
-INJECT:cannon_workshop = {
+TRY_INJECT:cannon_workshop = {
 	super_metropolis = yes
 }
 
-INJECT:cannon_foundry = {
+TRY_INJECT:cannon_foundry = {
 	super_metropolis = yes
 }
 
-INJECT:cannons_factory = {
+TRY_INJECT:cannons_factory = {
 	super_metropolis = yes
 }
 
-INJECT:cloth_guild = {
+TRY_INJECT:cloth_guild = {
 	super_metropolis = yes
 }
 
-INJECT:cloth_workshop = {
+TRY_INJECT:cloth_workshop = {
 	super_metropolis = yes
 }
 
-INJECT:cloth_manufactory = {
+TRY_INJECT:cloth_manufactory = {
 	super_metropolis = yes
 }
 
-INJECT:textile_mill = {
+TRY_INJECT:textile_mill = {
 	super_metropolis = yes
 }
 
-INJECT:dyes_guild = {
+TRY_INJECT:dyes_guild = {
 	super_metropolis = yes
 }
 
-INJECT:dyes_workshop = {
+TRY_INJECT:dyes_workshop = {
 	super_metropolis = yes
 }
 
-INJECT:dyesworks = {
+TRY_INJECT:dyesworks = {
 	super_metropolis = yes
 }
 
-INJECT:dyes_mill = {
+TRY_INJECT:dyes_mill = {
 	super_metropolis = yes
 }
 
-INJECT:fine_cloth_guild = {
+TRY_INJECT:fine_cloth_guild = {
 	super_metropolis = yes
 }
 
-INJECT:fine_cloth_workshop = {
+TRY_INJECT:fine_cloth_workshop = {
 	super_metropolis = yes
 }
 
-INJECT:fine_cloth_manufactory = {
+TRY_INJECT:fine_cloth_manufactory = {
 	super_metropolis = yes
 }
 
-INJECT:fine_cloth_mill = {
+TRY_INJECT:fine_cloth_mill = {
 	super_metropolis = yes
 }
 
-INJECT:hand_cannon_guild = {
+TRY_INJECT:hand_cannon_guild = {
 	super_metropolis = yes
 }
 
-INJECT:gun_smith = {
+TRY_INJECT:gun_smith = {
 	super_metropolis = yes
 }
 
-INJECT:guns_workshop = {
+TRY_INJECT:guns_workshop = {
 	super_metropolis = yes
 }
 
-INJECT:firearms_manufactory = {
+TRY_INJECT:firearms_manufactory = {
 	super_metropolis = yes
 }
 
-INJECT:firearms_factory = {
+TRY_INJECT:firearms_factory = {
 	super_metropolis = yes
 }
 
-INJECT:furniture_guild = {
+TRY_INJECT:furniture_guild = {
 	super_metropolis = yes
 }
 
-INJECT:furniture_workshop = {
+TRY_INJECT:furniture_workshop = {
 	super_metropolis = yes
 }
 
-INJECT:furniture_manufactory = {
+TRY_INJECT:furniture_manufactory = {
 	super_metropolis = yes
 }
 
-INJECT:furniture_mill = {
+TRY_INJECT:furniture_mill = {
 	super_metropolis = yes
 }
 
-INJECT:glass_guild = {
+TRY_INJECT:glass_guild = {
 	super_metropolis = yes
 }
 
-INJECT:glass_workshop = {
+TRY_INJECT:glass_workshop = {
 	super_metropolis = yes
 }
 
-INJECT:glassworks = {
+TRY_INJECT:glassworks = {
 	super_metropolis = yes
 }
 
-INJECT:glass_mill = {
+TRY_INJECT:glass_mill = {
 	super_metropolis = yes
 }
 
-INJECT:lacquerware_guild = {
+TRY_INJECT:lacquerware_guild = {
 	super_metropolis = yes
 }
 
-INJECT:lacquerware_manufactory = {
+TRY_INJECT:lacquerware_manufactory = {
 	super_metropolis = yes
 }
 
-INJECT:tannery = {
+TRY_INJECT:tannery = {
 	super_metropolis = yes
 }
 
-INJECT:tanning_workshop = {
+TRY_INJECT:tanning_workshop = {
 	super_metropolis = yes
 }
 
-INJECT:tannery_manufactory = {
+TRY_INJECT:tannery_manufactory = {
 	super_metropolis = yes
 }
 
-INJECT:tannery_mill = {
+TRY_INJECT:tannery_mill = {
 	super_metropolis = yes
 }
 
-INJECT:distillers_guild = {
+TRY_INJECT:distillers_guild = {
 	super_metropolis = yes
 }
 
-INJECT:distillers_workshop = {
+TRY_INJECT:distillers_workshop = {
 	super_metropolis = yes
 }
 
-INJECT:distiller_manufactory = {
+TRY_INJECT:distiller_manufactory = {
 	super_metropolis = yes
 }
 
-INJECT:distiller_mill = {
+TRY_INJECT:distiller_mill = {
 	super_metropolis = yes
 }
 
-INJECT:naval_supplies_guild = {
+TRY_INJECT:naval_supplies_guild = {
 	super_metropolis = yes
 }
 
-INJECT:naval_supplies_workshop = {
+TRY_INJECT:naval_supplies_workshop = {
 	super_metropolis = yes
 }
 
-INJECT:naval_supplies_manufactory = {
+TRY_INJECT:naval_supplies_manufactory = {
 	super_metropolis = yes
 }
 
-INJECT:naval_supplies_mill = {
+TRY_INJECT:naval_supplies_mill = {
 	super_metropolis = yes
 }
 
-INJECT:paper_guild = {
+TRY_INJECT:paper_guild = {
 	super_metropolis = yes
 }
 
-INJECT:paper_workshop = {
+TRY_INJECT:paper_workshop = {
 	super_metropolis = yes
 }
 
-INJECT:paper_manufactory = {
+TRY_INJECT:paper_manufactory = {
 	super_metropolis = yes
 }
 
-INJECT:paper_mill = {
+TRY_INJECT:paper_mill = {
 	super_metropolis = yes
 }
 
-INJECT:porcelain_guild = {
+TRY_INJECT:porcelain_guild = {
 	super_metropolis = yes
 }
 
-INJECT:porcelain_manufactory = {
+TRY_INJECT:porcelain_manufactory = {
 	super_metropolis = yes
 }
 
-INJECT:pottery_guild = {
+TRY_INJECT:pottery_guild = {
 	super_metropolis = yes
 }
 
-INJECT:pottery_workshop = {
+TRY_INJECT:pottery_workshop = {
 	super_metropolis = yes
 }
 
-INJECT:pottery_manufactory = {
+TRY_INJECT:pottery_manufactory = {
 	super_metropolis = yes
 }
 
-INJECT:pottery_mill = {
+TRY_INJECT:pottery_mill = {
 	super_metropolis = yes
 }
 
-INJECT:saltpeter_guild = {
+TRY_INJECT:saltpeter_guild = {
 	super_metropolis = yes
 }
 
-INJECT:saltpeter_workshop = {
+TRY_INJECT:saltpeter_workshop = {
 	super_metropolis = yes
 }
 
-INJECT:putrefaction_works = {
+TRY_INJECT:putrefaction_works = {
 	super_metropolis = yes
 }
 
-INJECT:putrefaction_mill = {
+TRY_INJECT:putrefaction_mill = {
 	super_metropolis = yes
 }
 
-INJECT:tools_guild = {
+TRY_INJECT:tools_guild = {
 	super_metropolis = yes
 }
 
-INJECT:tools_workshop = {
+TRY_INJECT:tools_workshop = {
 	super_metropolis = yes
 }
 
-INJECT:iron_foundry = {
+TRY_INJECT:iron_foundry = {
 	super_metropolis = yes
 }
 
-INJECT:iron_mill = {
+TRY_INJECT:iron_mill = {
 	super_metropolis = yes
 }
 
-INJECT:weapon_guild = {
+TRY_INJECT:weapon_guild = {
 	super_metropolis = yes
 }
 
-INJECT:weapon_workshop = {
+TRY_INJECT:weapon_workshop = {
 	super_metropolis = yes
 }
 
-INJECT:weapon_manufactory = {
+TRY_INJECT:weapon_manufactory = {
 	super_metropolis = yes
 }
 
-INJECT:weapon_factory = {
+TRY_INJECT:weapon_factory = {
 	super_metropolis = yes
 }
 
-INJECT:winery = {
+TRY_INJECT:winery = {
 	super_metropolis = yes
 }
 
-INJECT:winery_manufactory = {
+TRY_INJECT:winery_manufactory = {
 	super_metropolis = yes
 }
 
-INJECT:apothecary = {
+TRY_INJECT:apothecary = {
 	super_metropolis = yes
 }
 
-INJECT:jewelry_guild = {
+TRY_INJECT:jewelry_guild = {
 	super_metropolis = yes
 }
 
-INJECT:steel_mill = {
+TRY_INJECT:steel_mill = {
 	super_metropolis = yes
 }
 
-INJECT:perfumery = {
+TRY_INJECT:perfumery = {
 	super_metropolis = yes
 }
 
-INJECT:monastery = {
+TRY_INJECT:monastery = {
 	super_metropolis = yes
 }
 
-INJECT:fortress_church = {
+TRY_INJECT:fortress_church = {
 	super_metropolis = yes
 }
 
-INJECT:madrasa = {
+TRY_INJECT:madrasa = {
 	super_metropolis = yes
 }
 
-INJECT:sufi_lodge = {
+TRY_INJECT:sufi_lodge = {
 	super_metropolis = yes
 }
 
-INJECT:orthodox_monastery = {
+TRY_INJECT:orthodox_monastery = {
 	super_metropolis = yes
 }
 
-INJECT:miaphysite_monastery = {
+TRY_INJECT:miaphysite_monastery = {
 	super_metropolis = yes
 }
 
-INJECT:improved_charcoal_maker = {
+TRY_INJECT:improved_charcoal_maker = {
 	super_metropolis = yes
 }
 
-INJECT:lutheran_preachers = {
+TRY_INJECT:lutheran_preachers = {
 	super_metropolis = yes
 }
 
-INJECT:calvinist_preachers = {
+TRY_INJECT:calvinist_preachers = {
 	super_metropolis = yes
 }
 
-INJECT:temple = {
+TRY_INJECT:temple = {
 	super_metropolis = yes
 }
 
-INJECT:cathedral = {
+TRY_INJECT:cathedral = {
 	super_metropolis = yes
 }
 
-INJECT:construction_center = {
+TRY_INJECT:construction_center = {
 	super_metropolis = yes
 }
 
-INJECT:counting_house = {
+TRY_INJECT:counting_house = {
 	super_metropolis = yes
 }
 
-INJECT:minting_office = {
+TRY_INJECT:minting_office = {
 	super_metropolis = yes
 }
 
-INJECT:granary = {
+TRY_INJECT:granary = {
 	super_metropolis = yes
 }
 
-INJECT:fortress_granary = {
+TRY_INJECT:fortress_granary = {
 	super_metropolis = yes
 }
 
-INJECT:wharf = {
+TRY_INJECT:wharf = {
 	super_metropolis = yes
 }
 
-INJECT:medical_school = {
+TRY_INJECT:medical_school = {
 	super_metropolis = yes
 }
 
-INJECT:lazaretto = {
+TRY_INJECT:lazaretto = {
 	super_metropolis = yes
 }
 
-INJECT:pest_house = {
+TRY_INJECT:pest_house = {
 	super_metropolis = yes
 }
 
-INJECT:hospital = {
+TRY_INJECT:hospital = {
 	super_metropolis = yes
 }
 
-INJECT:slave_market = {
+TRY_INJECT:slave_market = {
 	super_metropolis = yes
 }
 
-INJECT:marketplace = {
+TRY_INJECT:marketplace = {
 	super_metropolis = yes
 }
 
-INJECT:merchants_quarters = {
+TRY_INJECT:merchants_quarters = {
 	super_metropolis = yes
 }
 
-INJECT:grand_marketplace = {
+TRY_INJECT:grand_marketplace = {
 	super_metropolis = yes
 }
 
-INJECT:commerce_center = {
+TRY_INJECT:commerce_center = {
 	super_metropolis = yes
 }
 
-INJECT:port_authority = {
+TRY_INJECT:port_authority = {
 	super_metropolis = yes
 }
 
-INJECT:trade_company_headquarters = {
+TRY_INJECT:trade_company_headquarters = {
 	super_metropolis = yes
 }
 
-INJECT:trade_company_garrison = {
+TRY_INJECT:trade_company_garrison = {
 	super_metropolis = yes
 }
 
-INJECT:trade_company_harbor = {
+TRY_INJECT:trade_company_harbor = {
 	super_metropolis = yes
 }
 
-INJECT:trade_company_local_venture = {
+TRY_INJECT:trade_company_local_venture = {
 	super_metropolis = yes
 }
 
-INJECT:trade_company_foreign_influence = {
+TRY_INJECT:trade_company_foreign_influence = {
 	super_metropolis = yes
 }
 
-INJECT:trade_company_governance = {
+TRY_INJECT:trade_company_governance = {
 	super_metropolis = yes
 }
 
-INJECT:pounamou_carver = {
+TRY_INJECT:pounamou_carver = {
 	super_metropolis = yes
 }
 
-INJECT:bardic_school = {
+TRY_INJECT:bardic_school = {
 	super_metropolis = yes
 }
 
-INJECT:hanseatic_kontor = {
+TRY_INJECT:hanseatic_kontor = {
 	super_metropolis = yes
 }
 
-INJECT:hanseatic_shipwright_guild = {
+TRY_INJECT:hanseatic_shipwright_guild = {
 	super_metropolis = yes
 }
 
-INJECT:hanseatic_town_hall = {
+TRY_INJECT:hanseatic_town_hall = {
 	super_metropolis = yes
 }
 
-INJECT:fondaco = {
+TRY_INJECT:fondaco = {
 	super_metropolis = yes
 }
 
-INJECT:venetian_arsenal = {
+TRY_INJECT:venetian_arsenal = {
 	super_metropolis = yes
 }
 
-INJECT:kurultai = {
+TRY_INJECT:kurultai = {
 	super_metropolis = yes
 }
 
-INJECT:order_stronghold = {
+TRY_INJECT:order_stronghold = {
 	super_metropolis = yes
 }
 
-INJECT:order_commandery = {
+TRY_INJECT:order_commandery = {
 	super_metropolis = yes
 }
 
-INJECT:banking_office = {
+TRY_INJECT:banking_office = {
 	super_metropolis = yes
 }
 
-INJECT:tribes_of_galway = {
+TRY_INJECT:tribes_of_galway = {
 	super_metropolis = yes
 }
 
-INJECT:copenhagen_dockyard = {
+TRY_INJECT:copenhagen_dockyard = {
 	super_metropolis = yes
 }
 
-INJECT:caravanserai = {
+TRY_INJECT:caravanserai = {
 	super_metropolis = yes
 }
 
-INJECT:caravan_stop = {
+TRY_INJECT:caravan_stop = {
 	super_metropolis = yes
 }
 
-INJECT:cinque_port = {
+TRY_INJECT:cinque_port = {
 	super_metropolis = yes
 }
 
-INJECT:seat_of_cardinal = {
+TRY_INJECT:seat_of_cardinal = {
 	super_metropolis = yes
 }
 
-INJECT:north_sea_shipyards = {
+TRY_INJECT:north_sea_shipyards = {
 	super_metropolis = yes
 }
 
-INJECT:galley_barracks = {
+TRY_INJECT:galley_barracks = {
 	super_metropolis = yes
 }
 
-INJECT:janissary_barracks = {
+TRY_INJECT:janissary_barracks = {
 	super_metropolis = yes
 }
 
-INJECT:safaviyya_order_hall = {
+TRY_INJECT:safaviyya_order_hall = {
 	super_metropolis = yes
 }
 
-INJECT:ghilman_barracks = {
+TRY_INJECT:ghilman_barracks = {
 	super_metropolis = yes
 }
 
-INJECT:stannary_court = {
+TRY_INJECT:stannary_court = {
 	super_metropolis = yes
 }
 
-INJECT:lieutenancy = {
+TRY_INJECT:lieutenancy = {
 	super_metropolis = yes
 }
 
-INJECT:viceroyalty = {
+TRY_INJECT:viceroyalty = {
 	super_metropolis = yes
 }
 
-INJECT:barcelona_royal_shipyard = {
+TRY_INJECT:barcelona_royal_shipyard = {
 	super_metropolis = yes
 }
 
-INJECT:uffizi = {
+TRY_INJECT:uffizi = {
 	super_metropolis = yes
 }
 
-INJECT:brethren_marsh = {
+TRY_INJECT:brethren_marsh = {
 	super_metropolis = yes
 }
 
-INJECT:sofa_barracks = {
+TRY_INJECT:sofa_barracks = {
 	super_metropolis = yes
 }
 
-INJECT:cawa_barracks = {
+TRY_INJECT:cawa_barracks = {
 	super_metropolis = yes
 }
 
-INJECT:kings_manor = {
+TRY_INJECT:kings_manor = {
 	super_metropolis = yes
 }
 
-INJECT:polders = {
+TRY_INJECT:polders = {
 	super_metropolis = yes
 }
 
-INJECT:telpochcalli = {
+TRY_INJECT:telpochcalli = {
 	super_metropolis = yes
 }
 
-INJECT:calmecac = {
+TRY_INJECT:calmecac = {
 	super_metropolis = yes
 }
 
-INJECT:panaqa_building = {
+TRY_INJECT:panaqa_building = {
 	super_metropolis = yes
 }
 
-INJECT:terraces = {
+TRY_INJECT:terraces = {
 	super_metropolis = yes
 }
 
-INJECT:tambo = {
+TRY_INJECT:tambo = {
 	super_metropolis = yes
 }
 
-INJECT:incamisana = {
+TRY_INJECT:incamisana = {
 	super_metropolis = yes
 }
 
-INJECT:royal_society = {
+TRY_INJECT:royal_society = {
 	super_metropolis = yes
 }
 
-INJECT:royal_academy_of_arts = {
+TRY_INJECT:royal_academy_of_arts = {
 	super_metropolis = yes
 }
 
-INJECT:peel_towers = {
+TRY_INJECT:peel_towers = {
 	super_metropolis = yes
 }
 
-INJECT:dun_fort = {
+TRY_INJECT:dun_fort = {
 	super_metropolis = yes
 }
 
-INJECT:kokufu = {
+TRY_INJECT:kokufu = {
 	super_metropolis = yes
 }
 
-INJECT:gosho = {
+TRY_INJECT:gosho = {
 	super_metropolis = yes
 }
 
-INJECT:yakata = {
+TRY_INJECT:yakata = {
 	super_metropolis = yes
 }
 
-INJECT:tatara = {
+TRY_INJECT:tatara = {
 	super_metropolis = yes
 }
 
-INJECT:clan_family_shrine = {
+TRY_INJECT:clan_family_shrine = {
 	super_metropolis = yes
 }
 
-INJECT:korean_gunnery_land_defense = {
+TRY_INJECT:korean_gunnery_land_defense = {
 	super_metropolis = yes
 }
 
-INJECT:korean_gunnery_coastal_defense = {
+TRY_INJECT:korean_gunnery_coastal_defense = {
 	super_metropolis = yes
 }
 
-INJECT:kremlin = {
+TRY_INJECT:kremlin = {
 	super_metropolis = yes
 }
 
-INJECT:stroganov_school_of_iconic_art = {
+TRY_INJECT:stroganov_school_of_iconic_art = {
 	super_metropolis = yes
 }
 
-INJECT:venetian_palaces = {
+TRY_INJECT:venetian_palaces = {
 	super_metropolis = yes
 }
 
-INJECT:venetian_quarter = {
+TRY_INJECT:venetian_quarter = {
 	super_metropolis = yes
 }
 
-INJECT:galata = {
+TRY_INJECT:galata = {
 	super_metropolis = yes
 }
 
-INJECT:novodevichy_convent = {
+TRY_INJECT:novodevichy_convent = {
 	super_metropolis = yes
 }
 
-INJECT:moscow_artillery_yard = {
+TRY_INJECT:moscow_artillery_yard = {
 	super_metropolis = yes
 }
 
-INJECT:bund = {
+TRY_INJECT:bund = {
 	super_metropolis = yes
 }
 
-INJECT:kalari = {
+TRY_INJECT:kalari = {
 	super_metropolis = yes
 }
 
-INJECT:ibadat_khana = {
+TRY_INJECT:ibadat_khana = {
 	super_metropolis = yes
 }
 
-INJECT:academy_of_sciences = {
+TRY_INJECT:academy_of_sciences = {
 	super_metropolis = yes
 }
 
-INJECT:greek_latin_academy = {
+TRY_INJECT:greek_latin_academy = {
 	super_metropolis = yes
 }
 
-INJECT:sukharev_tower = {
+TRY_INJECT:sukharev_tower = {
 	super_metropolis = yes
 }
 
-INJECT:the_bock_fortifications = {
+TRY_INJECT:the_bock_fortifications = {
 	super_metropolis = yes
 }
 
-INJECT:ruined_great_wall_of_china = {
+TRY_INJECT:ruined_great_wall_of_china = {
 	super_metropolis = yes
 }
 
-INJECT:repaired_great_wall_of_china = {
+TRY_INJECT:repaired_great_wall_of_china = {
 	super_metropolis = yes
 }
 
-INJECT:free_economic_society = {
+TRY_INJECT:free_economic_society = {
 	super_metropolis = yes
 }
 
-INJECT:imperial_academy_of_arts = {
+TRY_INJECT:imperial_academy_of_arts = {
 	super_metropolis = yes
 }
 
-INJECT:moscow_orphanage = {
+TRY_INJECT:moscow_orphanage = {
 	super_metropolis = yes
 }
 
-INJECT:institute_of_noble_maidens = {
+TRY_INJECT:institute_of_noble_maidens = {
 	super_metropolis = yes
 }
 
-INJECT:royal_atarazanas_seville = {
+TRY_INJECT:royal_atarazanas_seville = {
 	super_metropolis = yes
 }
 
-INJECT:alhambra = {
+TRY_INJECT:alhambra = {
 	super_metropolis = yes
 }
 
-INJECT:theodosian_walls = {
+TRY_INJECT:theodosian_walls = {
 	super_metropolis = yes
 }
 
-INJECT:bey_fortress = {
+TRY_INJECT:bey_fortress = {
 	super_metropolis = yes
 }
 
-INJECT:mamluk_barracks = {
+TRY_INJECT:mamluk_barracks = {
 	super_metropolis = yes
 }
 
-INJECT:kurmina_headquarter = {
+TRY_INJECT:kurmina_headquarter = {
 	super_metropolis = yes
 }
 
-INJECT:great_enclosure = {
+TRY_INJECT:great_enclosure = {
 	super_metropolis = yes
 }
 
-INJECT:great_hill_complex = {
+TRY_INJECT:great_hill_complex = {
 	super_metropolis = yes
 }
 
-INJECT:great_valley_complex = {
+TRY_INJECT:great_valley_complex = {
 	super_metropolis = yes
 }
 
-INJECT:trans_saharan_trade_outposts = {
+TRY_INJECT:trans_saharan_trade_outposts = {
 	super_metropolis = yes
 }
 
-INJECT:khmer_baray = {
+TRY_INJECT:khmer_baray = {
 	super_metropolis = yes
 }
 
-INJECT:bajang_ratu = {
+TRY_INJECT:bajang_ratu = {
 	super_metropolis = yes
 }
 
-INJECT:fulani_cattle_rearing_pen = {
+TRY_INJECT:fulani_cattle_rearing_pen = {
 	super_metropolis = yes
 }
 
-INJECT:walls_of_benin = {
+TRY_INJECT:walls_of_benin = {
 	super_metropolis = yes
 }
 
-INJECT:zazzau_walls = {
+TRY_INJECT:zazzau_walls = {
 	super_metropolis = yes
 }
 
-INJECT:eghabho_nore_mansion = {
+TRY_INJECT:eghabho_nore_mansion = {
 	super_metropolis = yes
 }
 
-INJECT:ribat = {
+TRY_INJECT:ribat = {
 	super_metropolis = yes
 }
 
-INJECT:por_feitoria = {
+TRY_INJECT:por_feitoria = {
 	super_metropolis = yes
 }
 
-INJECT:gurgaddi = {
+TRY_INJECT:gurgaddi = {
 	super_metropolis = yes
 }
 
-INJECT:sufi_mosque = {
+TRY_INJECT:sufi_mosque = {
 	super_metropolis = yes
 }
 
-INJECT:wali_songo_shrine = {
+TRY_INJECT:wali_songo_shrine = {
 	super_metropolis = yes
 }
 
-INJECT:zhixian = {
+TRY_INJECT:zhixian = {
 	super_metropolis = yes
 }
 
-INJECT:seljuk_mint = {
+TRY_INJECT:seljuk_mint = {
 	super_metropolis = yes
 }
 
-INJECT:tur_kodjabashi_office = {
+TRY_INJECT:tur_kodjabashi_office = {
 	super_metropolis = yes
 }
 
-INJECT:qalat_al_mashwar = {
+TRY_INJECT:qalat_al_mashwar = {
 	super_metropolis = yes
 }
