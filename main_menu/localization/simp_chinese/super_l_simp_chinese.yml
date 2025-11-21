@@ -1,6 +1,0 @@
-﻿l_simp_chinese:
-  super_metropolis: "都市"
-  super_metropolis_desc: "都市的规模远超普通城市，成为人口、贸易和权力的庞大枢纽。其影响力塑造了整个地区。"
-  FOUND_super_metropolis: "建立都市"
-  FOUND_super_metropolis_effect: "该省份将转变为都市，极大地增强其人口容量、建设能力和行政存在。"
-  ACTIVE_super_metropolis: "建立都市"

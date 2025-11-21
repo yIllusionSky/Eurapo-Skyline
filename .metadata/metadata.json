@@ -1,10 +1,10 @@
 {
-  "name": "欧陆天际线",
+  "name": "更大危害的战争",
   "id": "eu5_super_mod",
   "version": "1.0",
   "supported_game_version": "1.0.*",
-  "short_description": "Enhances population mechanics, adds new building types, and improves game balance",
-  "tags": ["Balance", "Buildings", "Population", "Economy"],
+  "short_description": "人口由粮食盈亏决定，战争与瘟疫带来更大破坏",
+  "tags": ["Balance", "Population", "Economy"],
   "relationships": [],
   "game_custom_data": {
     "replace_paths": []

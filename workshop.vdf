@@ -1,11 +1,11 @@
 "workshopitem"
 {
 	"appid"		"3450310"
-	"contentfolder"		"C:\\My\\Project\\develop\\Eurapo-Skyline"
-	"previewfile"		"C:\\My\\Project\\develop\\Eurapo-Skyline\\.metadata\\thumbnail.png"
+	"contentfolder"		"C:\\Users\\15527\\Documents\\Paradox Interactive\\Europa Universalis V\\mod\\war-of-greater-peril"
+	"previewfile"		"C:\\Users\\15527\\Documents\\Paradox Interactive\\Europa Universalis V\\mod\\war-of-greater-peril\\.metadata\\thumbnail.png"
 	"visibility"		"0"
-	"title"		"欧陆天际线"
-	"description"		"Enhances population mechanics, adds new building types, and improves game balance"
+	"title"		"更大危害的战争"
+	"description"		"人口几乎只看粮食盈亏，战争与瘟疫带来更大破坏。"
 	"changenote"		"Initial upload."
 	"publishedfileid"		"3606011446"
 }
